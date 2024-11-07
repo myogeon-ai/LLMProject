@@ -1,5 +1,5 @@
 # 설치 필요
-# pip install langchain
+# pip install langchain-community
 import streamlit as st
 from langchain_community.llms import OpenAI
 
